@@ -87,3 +87,17 @@ I was working on my version of 'oddaj-rzeczy' project from Coders Lab Portfolio 
 
 **Thoughts:** 
 It was more than 1 hour of working on the project because I needed to rebuild the structure of React components and Sass folder. Dividing the code for smaller parts makes it more readable for me.
+
+### Day 8: December 9, 2019 
+
+**Today's Progress**:
+Four Katas from Code Wars done:
+1. Find the longest gap!
+2. Array plus array
+3. Is n divisible by x and y?
+4. Super Duper Easy
+
+I also watched two videos regarding Map, Reduce and Filter to understand it better.
+
+**Thoughts:** 
+I've learned how a number can be easily changed to binary in JS. 8 kyu Katas are easier for me than before. I think I will try also some 7 kyu Katas tomorrow.
