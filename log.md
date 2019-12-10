@@ -101,3 +101,11 @@ I also watched two videos regarding Map, Reduce and Filter to understand it bett
 
 **Thoughts:** 
 I've learned how a number can be easily changed to binary in JS. 8 kyu Katas are easier for me than before. I think I will try also some 7 kyu Katas tomorrow.
+
+### Day 9: December 10, 2019 
+
+**Today's Progress**:
+I finished a header section in React project from Portfolio Lab. It is based on a mockup I'd received. Created few components and styled them in SASS.
+
+**Thoughts:** 
+Since I need to finish the project before deadline, I will work on it more often now.
