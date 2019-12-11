@@ -109,3 +109,13 @@ I finished a header section in React project from Portfolio Lab. It is based on 
 
 **Thoughts:** 
 Since I need to finish the project before deadline, I will work on it more often now.
+
+### Day 10: December 11, 2019 
+
+**Today's Progress**:
+It was a day with FreeCodeCamp (Responsive Web Design Certification module). 
+
+**Thoughts:** 
+It's hard to focus when you have a flu...
+
+
