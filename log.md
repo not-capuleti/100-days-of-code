@@ -118,4 +118,12 @@ It was a day with FreeCodeCamp (Responsive Web Design Certification module).
 **Thoughts:** 
 It's hard to focus when you have a flu...
 
+### Day 11: December 12, 2019 
+
+**Today's Progress**:
+I continued with my React project from Portfolio Lab - added few components and styled them based on the mock-up I received.
+
+**Thoughts:** 
+I am satisfied with the results of today's progress. To be continued... :) 
+
 
