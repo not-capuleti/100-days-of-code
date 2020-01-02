@@ -126,4 +126,13 @@ I continued with my React project from Portfolio Lab - added few components and 
 **Thoughts:** 
 I am satisfied with the results of today's progress. To be continued... :) 
 
+### I had a long break because of broken computer, going abroad and Christmas time, so I'm starting 2020 with new energy. I start this challenge again!
+
+### Day 1: January 1, 2020
+
+**Today's Progress**:
+I completed Responsive Web Design Principles and CSS Flexbox lessons, as well as 30% of CSS Grid lesson from freecodecamp website.
+
+**Thoughts:** 
+I was just a recap.
 
