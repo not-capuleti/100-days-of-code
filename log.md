@@ -136,3 +136,11 @@ I completed Responsive Web Design Principles and CSS Flexbox lessons, as well as
 **Thoughts:** 
 I was just a recap.
 
+### Day 2: January 2, 2020
+
+**Today's Progress**:
+Solved few Katas from Codewars.
+
+**Thoughts:** 
+Getting ready for 7kyu tasks :) 
+
