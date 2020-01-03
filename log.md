@@ -144,3 +144,10 @@ Solved few Katas from Codewars.
 **Thoughts:** 
 Getting ready for 7kyu tasks :) 
 
+### Day 3: January 3, 2020
+
+**Today's Progress**:
+I built a 'Tribute Page' project from freecodecamp portfolio.
+
+**Thoughts:** 
+I relied on user stories but also tried to make it more interesting and added some extra stuff to the project.
