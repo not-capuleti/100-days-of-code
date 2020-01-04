@@ -151,3 +151,11 @@ I built a 'Tribute Page' project from freecodecamp portfolio.
 
 **Thoughts:** 
 I relied on user stories but also tried to make it more interesting and added some extra stuff to the project.
+
+### Day 4: January 4, 2020
+
+**Today's Progress**:
+I built a 'Survey form' project from freecodecamp portfolio.
+
+**Thoughts:** 
+It was good to repeat different types of inputs and basic HTML5 form validation.
