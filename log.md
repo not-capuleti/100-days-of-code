@@ -159,3 +159,10 @@ I built a 'Survey form' project from freecodecamp portfolio.
 
 **Thoughts:** 
 It was good to repeat different types of inputs and basic HTML5 form validation.
+
+### Day 5: January 5, 2020
+
+**Today's Progress**:
+75% of Basic Javascript lessons on freeCodeCamp completed 💪
+**Thoughts:** 
+It is basically a recap but there is always something to discover!
